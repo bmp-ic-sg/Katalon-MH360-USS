@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Update Account Details</name>
+   <tag></tag>
+   <elementGuidId>5ffc3b9d-ab14-4fe8-898b-3170eb7f62cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='uss-text-title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uss-text-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>b93f1d2c-bf30-4f42-ad76-d5f7bbc32bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>uss-text-title</value>
+      <webElementGuid>026ce887-79d6-4845-a625-3f67e1b2aa12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 text-28px text-grey-dark</value>
+      <webElementGuid>d7e2ae7d-372b-4e21-a868-4b0983ba27a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Account Details</value>
+      <webElementGuid>e9ba4fac-a231-404e-9c27-faed893131ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uss-text-title&quot;)</value>
+      <webElementGuid>0b6c3f55-feba-42a9-a66f-5fcf59803f1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='uss-text-title']</value>
+      <webElementGuid>05987e37-fe61-49cb-a074-358c329c4f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateUserInfo']/div/div/div/div/h1</value>
+      <webElementGuid>7fef49fd-74d6-43e5-a605-2b2025a3adfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Information'])[1]/preceding::h1[1]</value>
+      <webElementGuid>94a38cb8-e023-4c5f-8f24-3a520263283f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::h1[1]</value>
+      <webElementGuid>8c48355a-58e0-4a4f-98be-d131ad9fd84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Update Account Details']/parent::*</value>
+      <webElementGuid>a28a5104-4c32-4a61-a532-16cc7a831cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>360c0fe6-102e-49b2-8e48-a081e7512d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'uss-text-title' and (text() = 'Update Account Details' or . = 'Update Account Details')]</value>
+      <webElementGuid>e3ea2887-bc42-4201-b92f-7c892cd3a765</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>manage-password</name>
+   <tag></tag>
+   <elementGuidId>79d1f615-e22f-431f-9e07-cf5addeb9ca1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manage-password']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.justify-content-center.mb-3.mt-2.p-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf6b6e5d-5003-41c2-b65f-5ddc0d32c2bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex justify-content-center mb-3 mt-2 p-2</value>
+      <webElementGuid>1efe3641-4c57-44a5-846c-457d6b88a4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> How to make strong passwords</value>
+      <webElementGuid>f19f972b-548e-4fe8-9a02-90631a5559c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manage-password&quot;)/div[@class=&quot;row wrapper-login&quot;]/div[@class=&quot;col-12 mb-5&quot;]/div[@class=&quot;d-flex justify-content-center mb-3 mt-2 p-2&quot;]</value>
+      <webElementGuid>1e8a1675-9b5e-4397-8548-a3cb0927c837</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manage-password']/div/div[2]/div[2]</value>
+      <webElementGuid>5a0d3ad1-72bc-42d9-9a31-903f42feb2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't reuse a password from another account!')])[1]/following::div[1]</value>
+      <webElementGuid>971ed89b-1479-4647-a244-bac4f0b1fa46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[2]/following::div[4]</value>
+      <webElementGuid>031b8c6e-7a27-4e2e-8fd2-bd6b9ce55735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Password'])[1]/preceding::div[2]</value>
+      <webElementGuid>9d583743-e188-46a8-96f7-8527525bf6d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>6f815e36-15f5-4949-8abe-6aeef461d213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' How to make strong passwords' or . = ' How to make strong passwords')]</value>
+      <webElementGuid>ad938e69-396c-4f12-a766-00065fd237bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

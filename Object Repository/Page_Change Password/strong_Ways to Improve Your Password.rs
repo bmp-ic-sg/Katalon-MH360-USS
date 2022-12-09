@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Ways to Improve Your Password</name>
+   <tag></tag>
+   <elementGuidId>ca73e9d0-938e-4bf4-9779-628bda2b2e6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='makingstrongPassword']/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#makingstrongPassword > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>04fe818e-d701-4d78-ba96-e71a134b00a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ways to Improve Your Password</value>
+      <webElementGuid>8f76c55f-f227-4643-a097-e4389016ca3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;strongPass&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/div[@id=&quot;makingstrongPassword&quot;]/strong[1]</value>
+      <webElementGuid>f9fd88c0-2b34-4a28-b390-ab22b04b3a81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='makingstrongPassword']/strong</value>
+      <webElementGuid>82dfb741-38be-474b-8ef4-7577289c0039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank You'])[1]/following::strong[1]</value>
+      <webElementGuid>4de73e02-3344-4d02-9e89-2b30bf334465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refrain from reusing a password from another account.'])[1]/preceding::strong[1]</value>
+      <webElementGuid>331cb4b7-7bfd-410f-a9ab-5bf4c44912f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your password should contain the following:'])[1]/preceding::strong[1]</value>
+      <webElementGuid>7b8c3055-aa05-49e2-ae7a-c8b5f251684b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ways to Improve Your Password']/parent::*</value>
+      <webElementGuid>444f2ee3-20db-4928-9f0c-e35be7c67ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/strong</value>
+      <webElementGuid>4ace8d77-3f4e-41dd-affe-51065b46a16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Ways to Improve Your Password' or . = 'Ways to Improve Your Password')]</value>
+      <webElementGuid>3fc38f50-8a75-4728-80b2-6fccfa5634d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

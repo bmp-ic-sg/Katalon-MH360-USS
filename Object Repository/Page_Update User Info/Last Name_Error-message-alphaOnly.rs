@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Last Name_Error-message-alphaOnly</name>
+   <tag></tag>
+   <elementGuidId>70060206-2178-4eda-8260-f14166b517d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uss-helper-lastname-alphabet']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uss-helper-lastname-alphabet</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc6ddb27-0dc2-4cea-8ed7-21f6dfa86fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>uss-helper-lastname-alphabet</value>
+      <webElementGuid>68f7c037-5738-4e98-a126-d8140f1006ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-small invalid-feedback text-left d-block</value>
+      <webElementGuid>469f7c58-9076-4a1f-8857-f638d5a0b296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    This field only allows alphabet characters.
+                                </value>
+      <webElementGuid>468e83e6-9423-497a-b3d1-be36fe1fb5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uss-helper-lastname-alphabet&quot;)</value>
+      <webElementGuid>8d4677c9-b879-47e4-9af0-42d34fd751da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='uss-helper-lastname-alphabet']</value>
+      <webElementGuid>4f5d5b78-7ff8-4a59-974c-d95c8c29228f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[2]/div/div</value>
+      <webElementGuid>7ff35067-2bd9-4ce0-a226-5daadc6ebd68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/following::div[1]</value>
+      <webElementGuid>1544fb32-fe05-45ea-a204-294d351f1b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field only allows alphabet characters.'])[1]/following::div[3]</value>
+      <webElementGuid>14a497ea-0a7b-4165-a7ff-040ad80b6b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/preceding::div[1]</value>
+      <webElementGuid>41bc4ee0-02f4-4fa4-abab-72aed3979852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/preceding::div[1]</value>
+      <webElementGuid>5d187ab8-dac2-49ef-bbe3-2e43ff0431a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div</value>
+      <webElementGuid>ad753378-d513-481b-b499-c1cf802d96a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'uss-helper-lastname-alphabet' and (text() = '
+                                    This field only allows alphabet characters.
+                                ' or . = '
+                                    This field only allows alphabet characters.
+                                ')]</value>
+      <webElementGuid>fa006a47-19e2-42bf-b75c-1c5178d0e210</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

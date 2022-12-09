@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Incorrect Email OTP, please try again</name>
+   <tag></tag>
+   <elementGuidId>4e76d11a-2658-4778-80d3-3abd29c205fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='MH360SmsloginForm']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-3 > div.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eceee8a3-986d-4610-a61e-a9d77647e489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>5c21fda6-1657-4128-84f5-60d432292e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	Incorrect Email OTP, please try again. 
+                                                        </value>
+      <webElementGuid>7d4e8786-0426-42f2-b318-8e88fea9e6ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MH360SmsloginForm&quot;)/div[@class=&quot;mb-3&quot;]/div[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>33e790a0-bd81-4af9-a2fe-22d46ddfcde3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MH360SmsloginForm']/div/div</value>
+      <webElementGuid>233b100d-3ca6-4181-bce3-6421dcb349a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your OTP'])[1]/following::div[3]</value>
+      <webElementGuid>6715482b-7274-4f40-a2e3-16b879d767d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>2894fdce-5435-4fe2-ab9f-5cea58d9b2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '	Incorrect Email OTP, please try again. 
+                                                        ' or . = '	Incorrect Email OTP, please try again. 
+                                                        ')]</value>
+      <webElementGuid>07710b72-3aa9-4b36-962a-ecb0bd093b33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

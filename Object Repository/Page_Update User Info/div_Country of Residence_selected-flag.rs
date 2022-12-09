@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Country of Residence_selected-flag</name>
+   <tag></tag>
+   <elementGuidId>c19ebb7c-cb49-40a8-892c-b842af72b584</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[5]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected-flag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a98d1862-f8a1-4e42-8be1-db02a5f92366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-flag</value>
+      <webElementGuid>45571115-d59d-4217-9831-181b5817849d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Singapore</value>
+      <webElementGuid>a5679786-bb84-4e3f-a842-e41f9fdb7cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updateUserInfo&quot;)/div[@class=&quot;d-flex layout-box&quot;]/div[@class=&quot;col mx-auto&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row wrapper-login&quot;]/form[@class=&quot;mb-4&quot;]/div[@class=&quot;group group-country&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;country-select inside&quot;]/div[@class=&quot;flag-dropdown&quot;]/div[@class=&quot;selected-flag&quot;]</value>
+      <webElementGuid>398f045b-d66d-4c0b-a86d-79fc73747288</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[5]/div/div/div/div</value>
+      <webElementGuid>1386a276-f806-419b-a463-e0fd0a0686a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Residence'])[1]/following::div[4]</value>
+      <webElementGuid>89640e17-d2a0-4707-b9f0-1687fe72d2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::div[8]</value>
+      <webElementGuid>b45cc580-7afa-47c5-8e1b-dc97806cb7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore'])[1]/preceding::div[4]</value>
+      <webElementGuid>b6115053-5dae-47d9-979c-4e8ef8786fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/preceding::div[5]</value>
+      <webElementGuid>53143209-572f-405e-8df6-10c77fdab4f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div</value>
+      <webElementGuid>7621b222-5da7-42a2-b9c7-29be9cfe1f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Singapore']</value>
+      <webElementGuid>5f9bf8f2-6449-411e-8b76-4d5985ed48ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

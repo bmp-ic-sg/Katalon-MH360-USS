@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Call me with an OTP in 55</name>
+   <tag></tag>
+   <elementGuidId>259536af-26bf-472c-9d17-0513df517970</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='countdownID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#countdownID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c0e0671-1167-496d-9a03-6b61a20a6549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>countdownID</value>
+      <webElementGuid>234f7057-88c9-48d6-8033-15f00bca9c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-13px text-secondary-dark-grey text-center mt-3</value>
+      <webElementGuid>c7dd1d56-2d82-4576-9b88-8a3dc2504c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Call me with an OTP in: 55.
+                        </value>
+      <webElementGuid>59b1f2f0-30ad-4df4-a034-3cb4a2b7725b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;countdownID&quot;)</value>
+      <webElementGuid>274a0e7b-8917-4375-affe-187fe7a2e7aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='countdownID']</value>
+      <webElementGuid>e56eeb78-a189-4e55-8796-571621e13059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-otp-phone']/div/div[2]/div</value>
+      <webElementGuid>be47c206-ab51-43d9-a92d-9ca1cdade45e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A one-time PIN has been sent via SMS to your mobile number'])[1]/following::div[5]</value>
+      <webElementGuid>c1f09191-8067-47d8-a7d7-c83fc08e8e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your OTP'])[1]/following::div[7]</value>
+      <webElementGuid>febc53f4-4018-40d8-86e5-b45f55b72d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::div[1]</value>
+      <webElementGuid>dc982106-e49f-4227-bca2-d232cec89758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Call me with an OTP in: 55.']/parent::*</value>
+      <webElementGuid>8854b464-e39c-4ab6-808c-c5e24318d8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div</value>
+      <webElementGuid>b6290259-b27d-430c-a9eb-d34682b78b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'countdownID' and (text() = '
+                            Call me with an OTP in: 55.
+                        ' or . = '
+                            Call me with an OTP in: 55.
+                        ')]</value>
+      <webElementGuid>f6a4128c-4005-4015-9671-50846b8a6891</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

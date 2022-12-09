@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Call me again</name>
+   <tag></tag>
+   <elementGuidId>db03f020-58a7-486e-b022-be565cc7983d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='resendCall']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#resendCall</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>85b3b27e-6b57-4060-bd10-2bd2f96e42e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resendCall</value>
+      <webElementGuid>f9f7fdde-4171-4084-a069-681ae74184e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link dh-link text-center text-15px</value>
+      <webElementGuid>056ccfb6-57cf-4729-918f-e06af07ba082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Call me again
+                </value>
+      <webElementGuid>1b14d9a9-51aa-4e54-980c-7a29ab7da139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resendCall&quot;)</value>
+      <webElementGuid>6e841c47-8c0e-4364-bad6-572de43725ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='resendCall']</value>
+      <webElementGuid>5d719e3b-e6f5-4647-94a6-3a65a828aa2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='otp']/div/div[2]/div[2]/a</value>
+      <webElementGuid>be6e8da5-19cb-41f0-9693-060be3eed707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Call me again')]</value>
+      <webElementGuid>ed7d9ed7-b54f-4d9c-aeee-9013902fad08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You can choose to receive your OTP by a voice call by tapping below.'])[1]/following::a[1]</value>
+      <webElementGuid>5c860e0a-6e50-4bef-b120-764935065bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::a[1]</value>
+      <webElementGuid>f6fd6213-6774-48c5-a393-8164ed413d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Call me again']/parent::*</value>
+      <webElementGuid>6e83ba35-5240-4868-ba2a-4e1c487b4df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>761079a4-f1be-48e7-9b7c-b583b9e2eac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'resendCall' and (text() = 'Call me again
+                ' or . = 'Call me again
+                ')]</value>
+      <webElementGuid>409d5531-f3c1-4798-84f5-bb3d18bed326</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

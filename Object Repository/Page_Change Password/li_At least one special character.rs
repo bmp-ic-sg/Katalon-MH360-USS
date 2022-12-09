@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_At least one special character</name>
+   <tag></tag>
+   <elementGuidId>81cf8c91-b877-4fc0-9333-5770d22e699f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manage-password']/div/div[2]/form/div[2]/div/div/div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cd01248e-7f4f-4da0-8a1f-b46f72fd91a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1</value>
+      <webElementGuid>9eff35cb-11c2-40fe-8c18-406fbc0bb5ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> At least one special character</value>
+      <webElementGuid>6ea9535a-22d9-436c-abdb-d869fbd1ea43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manage-password&quot;)/div[@class=&quot;row wrapper-login&quot;]/div[@class=&quot;col-12 mb-5&quot;]/form[1]/div[@class=&quot;group mb-3&quot;]/div[@class=&quot;card bg-message&quot;]/div[@class=&quot;card-body bg-card card-password&quot;]/div[@class=&quot;text-dark-grey&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;mt-1&quot;]</value>
+      <webElementGuid>8d85aeed-45a4-4c2c-ad72-62fb0783baca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manage-password']/div/div[2]/form/div[2]/div/div/div/ul/li[3]</value>
+      <webElementGuid>48408406-1f22-48ed-b8f6-61548d5d3785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='and'])[1]/following::li[1]</value>
+      <webElementGuid>a93d4f40-f171-4229-a5fc-d8cef4e1600c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum 8 characters'])[1]/preceding::li[1]</value>
+      <webElementGuid>6f9c29bc-7917-4fd0-aed2-fbc40ad4a764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>5868c4ad-3244-4916-895c-487b8c470ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' At least one special character' or . = ' At least one special character')]</value>
+      <webElementGuid>e59ba2fd-0b07-4e6e-a73b-1498c6c0c838</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

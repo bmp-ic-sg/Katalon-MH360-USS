@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SendEmail_div-OTP-to-my-email</name>
+   <tag></tag>
+   <elementGuidId>4ab6973c-ab62-4a04-b9c0-efbd405aa2d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='showEmailLink']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#showEmailLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>859e653e-6dbb-4ca6-b33a-ddf2fc6a4588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center mb-3</value>
+      <webElementGuid>3ea3eee1-50f0-4d7f-a832-8a9da9b6808a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>showEmailLink</value>
+      <webElementGuid>e18d5cd3-5c90-4380-8d5a-60b986b4f212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                Send OTP to my email
+                                                        </value>
+      <webElementGuid>7742296c-1bfa-46ae-8a59-3ba2f48008d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;showEmailLink&quot;)</value>
+      <webElementGuid>0f0fa802-3fa2-4c3f-9cd1-4de8209812ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='showEmailLink']</value>
+      <webElementGuid>30cf2a71-bd4b-478e-a8a3-d95a929e5b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MH360SmsloginForm']/div[2]/div</value>
+      <webElementGuid>6b72456a-faa8-4dbe-aeb1-68376820a527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend the OTP to my mobile phone in 49'])[1]/following::div[2]</value>
+      <webElementGuid>4ef1c16d-8f1e-43be-9233-fced408efb78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A one-time PIN has been sent via SMS to your mobile number'])[1]/following::div[4]</value>
+      <webElementGuid>ffb663c3-603b-4318-8607-70276b50cbe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If you did not receive an OTP email in your inbox, please check your spam or junk folder.'])[1]/preceding::div[1]</value>
+      <webElementGuid>2223dc06-5026-437b-8fbb-3b3cfb26b07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>b5d96a2a-52f7-4a49-bd93-8992f8a1c50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'showEmailLink' and (text() = '
+                                                                Send OTP to my email
+                                                        ' or . = '
+                                                                Send OTP to my email
+                                                        ')]</value>
+      <webElementGuid>7a8e8393-f9cd-4097-8cf1-5f5fd3c65014</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

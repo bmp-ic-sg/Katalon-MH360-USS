@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Date of Birth_d-flex align-items-center_c0de45</name>
+   <tag></tag>
+   <elementGuidId>f69f6e33-265e-4bc9-b85d-e1f1bf9d2e79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[4]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.align-items-center.justify-content-center.calendar-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0bfaa503-3f63-4bfb-86c9-104786e3a1c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center justify-content-center calendar-icon</value>
+      <webElementGuid>ea88cf04-0463-49ac-8c2d-a85293caf8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updateUserInfo&quot;)/div[@class=&quot;d-flex layout-box&quot;]/div[@class=&quot;col mx-auto&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row wrapper-login&quot;]/form[@class=&quot;mb-4&quot;]/div[@class=&quot;group&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center calendar-icon&quot;]</value>
+      <webElementGuid>da94b454-050e-449f-a276-b5838352ebba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[4]/div/div[2]</value>
+      <webElementGuid>20ea0a4e-f11b-4378-b649-384d28720037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::div[3]</value>
+      <webElementGuid>059baba7-81cc-4cd1-9a40-787db4cb62c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/following::div[4]</value>
+      <webElementGuid>11844e41-a2d0-4ade-b1bc-eae152e7b421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Residence'])[1]/preceding::div[1]</value>
+      <webElementGuid>7c0b2630-f479-42c4-a16d-bddb4dee450d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore'])[1]/preceding::div[5]</value>
+      <webElementGuid>6478eb18-f986-40ba-8723-a6517b7ba403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/div/div[2]</value>
+      <webElementGuid>230b3a8e-f6e5-4bff-b6a8-e974d5817870</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

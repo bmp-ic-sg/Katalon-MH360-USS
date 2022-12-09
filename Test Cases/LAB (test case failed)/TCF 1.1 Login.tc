@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the user is not successful in logging in.</description>
+   <name>TCF 1.1 Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5a0a897-932a-4525-b990-c145dba96d35</testCaseGuid>
+</TestCaseEntity>

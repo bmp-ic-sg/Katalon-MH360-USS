@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Resend the OTP to my mobile phone     _a49153</name>
+   <tag></tag>
+   <elementGuidId>e506a4c3-b478-4330-8ebd-8136578d0606</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-otp-phone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-otp-phone</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>90308556-fb09-4b58-8a10-6018d9898a1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>form-otp-phone</value>
+      <webElementGuid>40af7d0a-43b8-483a-8ced-7130dc20415a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>        Resend the OTP to my mobile phone
+                          Verify</value>
+      <webElementGuid>9b2c1da5-9288-43f8-ba71-91e2fb97a817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-otp-phone&quot;)</value>
+      <webElementGuid>11942403-3c3d-4d79-b7a8-eeb78cb9bcd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@id='form-otp-phone']</value>
+      <webElementGuid>6fc139a3-135e-474b-84d5-295740c5cec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='otp']/div/div[2]/form</value>
+      <webElementGuid>f9919ce2-4564-4400-842f-eb38c9c3dccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A one-time PIN has been sent via SMS to your mobile number'])[1]/following::form[1]</value>
+      <webElementGuid>e2d412f1-80a5-45ed-8192-bdacfc764c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your OTP'])[1]/following::form[1]</value>
+      <webElementGuid>753232f2-0e8f-4305-b146-f402e0fdd717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>668d307f-b4c0-46cf-9f57-546e8b0e00ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[@id = 'form-otp-phone' and (text() = '        Resend the OTP to my mobile phone
+                          Verify' or . = '        Resend the OTP to my mobile phone
+                          Verify')]</value>
+      <webElementGuid>f4dfa78a-6238-4e09-b7af-049e1bf13634</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

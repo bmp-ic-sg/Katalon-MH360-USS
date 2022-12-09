@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>if the user fails to send the OTP code to the mobile number after the second try. it will trigger sending the OTP code via voice call</description>
+   <name>TC 1.7 Voice Call</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a1e2551-0f7a-4e8b-83e0-cb41a0506cbf</testCaseGuid>
+</TestCaseEntity>

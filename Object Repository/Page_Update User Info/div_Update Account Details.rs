@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Update Account Details</name>
+   <tag></tag>
+   <elementGuidId>7880c008-ef28-4b91-a5c2-80de1a84fa48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updateUserInfo']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.justify-content-center.mb-2.mt-2.p-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ccfaa65-4eab-4ac4-8dd8-ad4d09aa58d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex justify-content-center mb-2 mt-2 p-2</value>
+      <webElementGuid>2cc1cebe-e4cf-42cb-a8e8-af2096b8985b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Account Details</value>
+      <webElementGuid>e93e8804-d26d-4f65-9df7-6c8d5bae3ffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updateUserInfo&quot;)/div[@class=&quot;d-flex layout-box&quot;]/div[@class=&quot;col mx-auto&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex justify-content-center mb-2 mt-2 p-2&quot;]</value>
+      <webElementGuid>b58f4522-ebc4-4188-87bc-c0c59249ed8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateUserInfo']/div/div/div/div</value>
+      <webElementGuid>ac838785-ff51-478a-a0f1-005d222c005f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Information'])[1]/preceding::div[1]</value>
+      <webElementGuid>ce8ab6ce-7d7c-4a8f-9fa8-c34a516e415c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>7fda66c9-5397-4974-87a3-013cea2e8cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Update Account Details' or . = 'Update Account Details')]</value>
+      <webElementGuid>a44ecaef-b775-46be-b129-adbb9668b80a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

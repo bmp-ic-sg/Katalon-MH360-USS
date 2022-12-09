@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Call me with an OTP</name>
+   <tag></tag>
+   <elementGuidId>46def8b6-0035-449e-b627-306e8edb6dca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='resendCall']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#resendCall</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7b097f23-2cbf-40a6-ad83-35efa309eae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resendCall</value>
+      <webElementGuid>11df429c-9e8d-438e-8044-092173c8b507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link dh-link text-center text-15px</value>
+      <webElementGuid>3bc650e1-4978-4919-b7bc-9401da8eb5c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Call me with an OTP
+                </value>
+      <webElementGuid>e4ab6979-ef77-4885-97c5-a978aae2a37c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resendCall&quot;)</value>
+      <webElementGuid>e964e422-50d1-4474-bfcd-9c6965f7edcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='resendCall']</value>
+      <webElementGuid>5465fff6-7c56-4e24-87ff-e324028190ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='otp']/div/div[2]/div[3]/a</value>
+      <webElementGuid>ce1f30a7-952d-49ea-a30a-3e29ffc6c63c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Call me with an OTP')]</value>
+      <webElementGuid>f5b66016-9bb0-4a5d-866c-89324ac5881b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You can choose to receive your OTP by a voice call by tapping below.'])[1]/following::a[1]</value>
+      <webElementGuid>71cb042f-faa8-4ae9-85f2-35b609ab1924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::a[1]</value>
+      <webElementGuid>828a06cc-bf39-44ef-850e-fb8ebad36be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Call me with an OTP']/parent::*</value>
+      <webElementGuid>68f73a02-a208-4b0e-ae93-c031e77af236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>058db4b4-6dce-403d-8c1f-1cdbf639f4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'resendCall' and (text() = 'Call me with an OTP
+                ' or . = 'Call me with an OTP
+                ')]</value>
+      <webElementGuid>a54fe437-5e54-487a-b31f-26b2e3e32da1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

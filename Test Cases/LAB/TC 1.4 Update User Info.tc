@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If user already has an account, user can click &quot;Login button&quot; to navigated user to the Landing page for update user information.</description>
+   <name>TC 1.4 Update User Info</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>735f21a7-b66c-42c4-a3d4-c085e66aaf2e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter your OTP_circle text-center</name>
+   <tag></tag>
+   <elementGuidId>3b0586dc-c896-4d4a-b18b-3b69ddd2758f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cover-spin']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.circle.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>033cc7eb-62d3-43a1-96f8-f70a43bba0d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>circle text-center</value>
+      <webElementGuid>1f7de412-301a-4f1d-9a21-62072d0ffb8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cover-spin&quot;)/div[@class=&quot;circle text-center&quot;]</value>
+      <webElementGuid>1442717c-49c5-4bd1-9e26-288ce016390f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cover-spin']/div</value>
+      <webElementGuid>a8c45548-c8fa-4fd3-b25e-1b0aba7227d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your OTP'])[1]/preceding::div[1]</value>
+      <webElementGuid>0c435cbb-f36a-4e15-8ba7-d743e790172c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A one-time PIN has been sent via SMS to your mobile number'])[1]/preceding::div[3]</value>
+      <webElementGuid>fbe65231-a510-4018-88e9-dedd6fb98057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>d61d44cf-ef48-4448-9fb1-e294c4506c78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

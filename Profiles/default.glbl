@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Profile name</description>
+      <initValue>'LOCAL'</initValue>
+      <name>ProfileName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Local MH360 PRP url</description>
+      <initValue>'http:localhost:8080/mh360-patients'</initValue>
+      <name>BaseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'82293212606'</initValue>
+      <name>PhoneNumber1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'82293212111'</initValue>
+      <name>PhoneNumber2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

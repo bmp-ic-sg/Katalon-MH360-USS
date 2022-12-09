@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_At least one uppercase and one lowercase letter</name>
+   <tag></tag>
+   <elementGuidId>4755289a-54e8-4eb9-a2d9-68aeec2a1eed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manage-password']/div/div[2]/form/div[2]/div/div/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>468d04c4-ba20-4719-a1b4-66867dee733d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1</value>
+      <webElementGuid>91c32c12-8e90-463e-b235-509cdc6f0d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> At least one uppercase and one lowercase letter</value>
+      <webElementGuid>272d5969-6b2a-449a-98b1-5df6b9c6a006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manage-password&quot;)/div[@class=&quot;row wrapper-login&quot;]/div[@class=&quot;col-12 mb-5&quot;]/form[1]/div[@class=&quot;group mb-3&quot;]/div[@class=&quot;card bg-message&quot;]/div[@class=&quot;card-body bg-card card-password&quot;]/div[@class=&quot;text-dark-grey&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;mt-1&quot;]</value>
+      <webElementGuid>8abf1595-82ff-4cc5-b8e1-a5afe3504476</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manage-password']/div/div[2]/form/div[2]/div/div/div/ul/li[2]</value>
+      <webElementGuid>937d06a9-68a1-4d11-8c10-682cf72d99f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one number'])[1]/following::li[1]</value>
+      <webElementGuid>69b134d3-f2b9-48e5-b6dd-b18246329371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Password'])[1]/following::li[2]</value>
+      <webElementGuid>3330cc68-d976-4b08-b5ad-f7a0362486ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>0a14f9ad-fe60-4846-ae6f-31002db4c41c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' At least one uppercase and one lowercase letter' or . = ' At least one uppercase and one lowercase letter')]</value>
+      <webElementGuid>1402006c-cc92-4aa3-8ac9-377e9a1e60d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

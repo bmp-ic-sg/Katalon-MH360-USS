@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Last Name_Error-message-required</name>
+   <tag></tag>
+   <elementGuidId>f355dc4c-b27f-481f-abdc-8e102a2fec09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0333f40e-80a9-41cd-8c7a-6f85cc94e54a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>59c18035-ed96-4f1c-ae97-dfa337d3632d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last Name  This field is required. </value>
+      <webElementGuid>b7af3788-3bb7-4a3a-8dc3-9d5e485fdffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updateUserInfo&quot;)/div[@class=&quot;d-flex layout-box&quot;]/div[@class=&quot;col mx-auto&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row wrapper-login&quot;]/form[@class=&quot;mb-4&quot;]/div[@class=&quot;group&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>3b6fcb9b-7b19-46a6-afc8-ab3af6bcece9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[2]/div</value>
+      <webElementGuid>8119321c-cb95-40d4-8cb6-7667ad092b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field only allows alphabet characters.'])[1]/following::div[2]</value>
+      <webElementGuid>4d7c844f-120a-4583-b7aa-95395d2b3789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/following::div[4]</value>
+      <webElementGuid>c9b4589e-8682-41c2-b02e-62400796c5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>5f1ed8d8-bc1f-4df1-aa88-07e85345c21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Last Name  This field is required. ' or . = 'Last Name  This field is required. ')]</value>
+      <webElementGuid>2ce8d553-c309-434f-97ca-adc6661f5047</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Send OTP verification</name>
+   <tag></tag>
+   <elementGuidId>978013e7-187a-430a-8982-e0e37b97b401</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='uss-btn-submit2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uss-btn-submit2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c1b73cbd-5b0d-440d-b965-f69bd9f3da4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>51bd901c-7fd8-4448-b0b2-d0b640dd63d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>uss-btn-submit2</value>
+      <webElementGuid>b8ac44db-54a0-413f-a54f-c21f255aab9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary text-white mx-auto col-10</value>
+      <webElementGuid>35ba53dc-0a6c-42dd-9c26-324133b11696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send OTP verification
+                            </value>
+      <webElementGuid>9bc2d1ce-5dbc-4475-99cf-4fed129cabad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uss-btn-submit2&quot;)</value>
+      <webElementGuid>89034ce7-4fb6-4184-9986-a51e0c280a50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='uss-btn-submit2']</value>
+      <webElementGuid>2c42fe47-e9a4-4987-b7fc-4fea90b1a6a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[13]/button</value>
+      <webElementGuid>2756ad76-051a-4620-b4df-135bbed20af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zimbabwe'])[3]/following::button[1]</value>
+      <webElementGuid>6dc07aa6-17b9-4907-8644-3e79f689be6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zambia'])[3]/following::button[1]</value>
+      <webElementGuid>ef6a9fa1-ba38-4b0d-b9c4-e3f3c4c622ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/preceding::button[1]</value>
+      <webElementGuid>f376cb0f-4701-4bd4-96d9-309668722a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send OTP verification']/parent::*</value>
+      <webElementGuid>9380653a-7507-4e87-9f55-0651b10be0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/button</value>
+      <webElementGuid>9185ca3a-b85b-443a-9dbb-ba707c4657ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'uss-btn-submit2' and (text() = 'Send OTP verification
+                            ' or . = 'Send OTP verification
+                            ')]</value>
+      <webElementGuid>3f68c06b-5dbd-4091-a9a3-dc40c7853bdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

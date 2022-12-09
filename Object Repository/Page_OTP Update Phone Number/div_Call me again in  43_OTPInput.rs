@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Call me again in  43_OTPInput</name>
+   <tag></tag>
+   <elementGuidId>e0419acd-e285-442f-b796-09f29c12fd2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='OTPInput']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#OTPInput</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f385ff3a-28d7-4bd8-b8cf-f86300e2a1d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>OTPInput</value>
+      <webElementGuid>8484db1e-7db2-4862-95e6-01430d172a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>digit-group-single flex justify-center pt-4 text-center</value>
+      <webElementGuid>7f5c03c8-daec-43ff-bcda-944206b4c6c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OTPInput&quot;)</value>
+      <webElementGuid>6349c706-20a6-4e1a-aaf3-7c83aee9bb97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='OTPInput']</value>
+      <webElementGuid>de26500a-5ea0-4809-9ce7-2bc276ee3b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-otp-phone']/div/div</value>
+      <webElementGuid>9990edff-adf0-453e-a616-418f2b228c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call me again in : 43.'])[1]/following::div[2]</value>
+      <webElementGuid>c522e2d0-2d8f-4e1f-96fe-dd950af093fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You can choose to receive your OTP by a voice call by tapping below.'])[1]/following::div[4]</value>
+      <webElementGuid>a5dc1c12-ccf7-4a28-ae2f-635eecab5b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::div[2]</value>
+      <webElementGuid>326a28ef-57bb-4013-8198-8d829f517ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>5d677466-15f2-49f3-8033-e71e7f6f56ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'OTPInput']</value>
+      <webElementGuid>5c478ad3-da6d-4e5b-b0b6-0ffdcf0379e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

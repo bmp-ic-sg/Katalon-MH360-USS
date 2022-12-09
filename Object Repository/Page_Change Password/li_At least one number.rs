@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_At least one number</name>
+   <tag></tag>
+   <elementGuidId>6538d3ca-3f60-47f4-849c-e7fa6509d2be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manage-password']/div/div[2]/form/div[2]/div/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.mt-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3c4e9276-d9bd-4f5a-b08c-471ad67f9639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1</value>
+      <webElementGuid>cf939551-21e4-4209-80b1-99f8c21e61a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> At least one number</value>
+      <webElementGuid>53d39229-3873-413e-818b-9d68601803c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manage-password&quot;)/div[@class=&quot;row wrapper-login&quot;]/div[@class=&quot;col-12 mb-5&quot;]/form[1]/div[@class=&quot;group mb-3&quot;]/div[@class=&quot;card bg-message&quot;]/div[@class=&quot;card-body bg-card card-password&quot;]/div[@class=&quot;text-dark-grey&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;mt-1&quot;]</value>
+      <webElementGuid>464a335e-a3f6-4aca-bf45-6eaec05e5046</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manage-password']/div/div[2]/form/div[2]/div/div/div/ul/li</value>
+      <webElementGuid>1f9130c6-ea3e-4ab0-b9a3-d7198b2ef21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Password'])[1]/following::li[1]</value>
+      <webElementGuid>59d99027-2e3e-4843-999a-ea8171efe8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to make strong passwords'])[1]/following::li[1]</value>
+      <webElementGuid>f86d16f0-bb5f-4f12-a367-49c6070ca809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>d639c16c-dfb0-4d1a-babf-d46ff80438a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' At least one number' or . = ' At least one number')]</value>
+      <webElementGuid>ebc9ec0a-c193-48ad-bbdf-a6c43be96788</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

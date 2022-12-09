@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ID Number_Error-message-required</name>
+   <tag></tag>
+   <elementGuidId>c4de1bf7-4af6-429a-98ed-bf4af886feca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[7]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uss-helper-idnumber-required</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cec3014b-5bbf-4faf-8072-e387c899d8a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>uss-helper-idnumber-required</value>
+      <webElementGuid>7d67920b-9be2-4617-9d78-5999a7f3aaf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-small invalid-feedback text-left d-block</value>
+      <webElementGuid>e00b485d-5c93-4af0-97d2-4a4e1447d388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This field is required.</value>
+      <webElementGuid>c81f27c0-5452-494f-a55c-86fccc8773a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uss-helper-idnumber-required&quot;)</value>
+      <webElementGuid>8597d6e3-ef99-4266-aecf-ae094a469e3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='uss-helper-idnumber-required']</value>
+      <webElementGuid>a02957c9-4a06-452a-9da6-6e020923d864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateUserInfo']/div/div/div/div[2]/form/div[7]/div[2]/div</value>
+      <webElementGuid>7bfa375c-0d94-435e-848f-5521e6cdce57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wrong ID may result in missing results.'])[1]/following::div[6]</value>
+      <webElementGuid>3edc6e94-6ae4-4b41-a486-af9948089eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Number'])[1]/following::div[6]</value>
+      <webElementGuid>084b41fc-e644-4b7c-bfb9-e5b16bef2807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please input correct number.'])[1]/preceding::div[1]</value>
+      <webElementGuid>db10f862-1593-44a2-932d-cde530222993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::div[2]</value>
+      <webElementGuid>a5783df3-3e69-4197-baf7-9bcc5b005b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This field is required.']/parent::*</value>
+      <webElementGuid>627a237b-d8f7-46b7-9bd7-df451d2ab1da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div</value>
+      <webElementGuid>dc12d9e0-5d49-402d-b00d-dbf446ed38fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'uss-helper-idnumber-required' and (text() = 'This field is required.' or . = 'This field is required.')]</value>
+      <webElementGuid>713fd3e3-fa41-4cdd-b644-10e4f4c78a59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

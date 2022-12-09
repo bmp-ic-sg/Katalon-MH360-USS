@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Base Login (not with otp)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2da5f8c-346f-48b1-b63d-8598ff59cf97</testCaseGuid>
+</TestCaseEntity>

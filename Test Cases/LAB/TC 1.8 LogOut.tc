@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users can logout successful.</description>
+   <name>TC 1.8 LogOut</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d075ce52-821b-43b6-992d-1099f7884eb0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Resend the OTP to my mobile phone</name>
+   <tag></tag>
+   <elementGuidId>ba046cfb-8c96-4a2d-a030-3228e41efcec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='resendOTP']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#resendOTP</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>91165195-db09-4b3c-a6c9-23c3235bc2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resendOTP</value>
+      <webElementGuid>d52b7526-a797-49b0-b3e0-344c3f5a52c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link dh-link text-center text-15px</value>
+      <webElementGuid>ff8d6bfe-2bf1-4fcd-bac8-ce10e001e7da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resend the OTP to my mobile phone
+                        </value>
+      <webElementGuid>99248c53-52a2-44e5-a296-e9e73eb5992c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resendOTP&quot;)</value>
+      <webElementGuid>edc02fcc-0888-4757-a729-ba2b91e818ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='resendOTP']</value>
+      <webElementGuid>4375f9a2-25de-433b-9953-ec9efd646754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-otp-phone']/div/div[2]/a</value>
+      <webElementGuid>cde97a22-dd4a-4537-a0b2-327cf10cce07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Resend the OTP to my mobile phone')]</value>
+      <webElementGuid>1a77098a-417f-4428-a7fb-b5d4cc188582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A one-time PIN has been sent via SMS to your mobile number'])[1]/following::a[1]</value>
+      <webElementGuid>b822b326-187d-492a-8a43-e9f7bb271e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your OTP'])[1]/following::a[1]</value>
+      <webElementGuid>e6ab3041-20da-450d-bd1d-c08ec94cae9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::a[1]</value>
+      <webElementGuid>e703c597-5c76-48c5-8547-98da5cbe2d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Resend the OTP to my mobile phone']/parent::*</value>
+      <webElementGuid>30a551ae-fbe2-4dc5-85e2-484c2dab0cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>20ada0cd-a155-41b7-8d91-608faef36bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'resendOTP' and (text() = 'Resend the OTP to my mobile phone
+                        ' or . = 'Resend the OTP to my mobile phone
+                        ')]</value>
+      <webElementGuid>cafce08e-8fcb-4a09-b87f-0f3f6e3a809c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

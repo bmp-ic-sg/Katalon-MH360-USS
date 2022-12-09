@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>makingstrongPassword-TC-PR</name>
+   <tag></tag>
+   <elementGuidId>7757a743-bd0a-4767-b4da-3ff9031ed827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='makingstrongPassword']/strong)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-dialog.modal-dialog-scrollable > div.modal-content > div.modal-header > #makingstrongPassword > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>b0921561-b718-481b-ac7a-c6fff92e4aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Making Strong Passwords</value>
+      <webElementGuid>3902c42a-7b55-4ece-a146-9844e43d3108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;makingStrongPass&quot;)/div[@class=&quot;modal-dialog modal-dialog-scrollable&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/div[@id=&quot;makingstrongPassword&quot;]/strong[1]</value>
+      <webElementGuid>115a6f61-110c-4833-9212-3d39d05d9650</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='makingstrongPassword']/strong)[2]</value>
+      <webElementGuid>a5cc89a7-af0f-4d9d-b93d-1712233a88c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to make strong passwords'])[2]/following::strong[1]</value>
+      <webElementGuid>f6a6d344-3aef-4eb1-8d92-dc57003c04ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A combination of lowercase and uppercase letters, numeric digits, and symbols'])[1]/following::strong[1]</value>
+      <webElementGuid>2c6aa2c6-0f86-4ae3-9d2f-f2758fef2c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Making Strong Passwords']/parent::*</value>
+      <webElementGuid>b033d9ba-5a43-401f-953c-3b909f80f1c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/strong</value>
+      <webElementGuid>09c5c8fe-fcb9-4bdc-ae3a-8194e64ae3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Making Strong Passwords' or . = 'Making Strong Passwords')]</value>
+      <webElementGuid>0b961e79-0b76-4ede-adbb-c7162f2b6977</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

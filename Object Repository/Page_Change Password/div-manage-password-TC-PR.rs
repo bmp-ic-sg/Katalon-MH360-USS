@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div-manage-password-TC-PR</name>
+   <tag></tag>
+   <elementGuidId>b5e89a93-463f-4619-95df-cd8693090929</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manage-password']/div/div[2]/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-3.position-relative</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8187d2ec-d619-4988-9107-1beb4f003708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-3 position-relative</value>
+      <webElementGuid>ac84bde2-ff60-4a0e-b6a5-cb83a536b20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Password  </value>
+      <webElementGuid>656bef7c-f863-4ddd-971f-fe1406ef980d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manage-password&quot;)/div[@class=&quot;row wrapper-login&quot;]/div[@class=&quot;col-12 mb-5&quot;]/form[1]/div[@class=&quot;mb-3 position-relative&quot;]</value>
+      <webElementGuid>5bb64ffe-d3fb-4237-a280-0049016c5d65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manage-password']/div/div[2]/form/div</value>
+      <webElementGuid>11924df7-366b-4430-9c43-0904c8237aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to make strong passwords'])[1]/following::div[1]</value>
+      <webElementGuid>dc67c3cc-2e8c-4289-ab21-2b158288c834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't reuse a password from another account!')])[1]/following::div[3]</value>
+      <webElementGuid>15b03959-4c63-442d-9d4a-ec194e249b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one number'])[1]/preceding::div[1]</value>
+      <webElementGuid>04a4145e-777a-4ccf-a7de-84835608c5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>dc11229a-1d4f-49ec-a03c-819d8fe44cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'New Password  ' or . = 'New Password  ')]</value>
+      <webElementGuid>be28a44b-af6c-490c-81bd-5f035379596f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Minimum 8 characters</name>
+   <tag></tag>
+   <elementGuidId>0def522d-e1ca-4bb7-ac4c-97bacb4a1918</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manage-password']/div/div[2]/form/div[2]/div/div/div/ul/li[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d529ed51-a7d9-4402-8a86-870241f54993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1</value>
+      <webElementGuid>04ff8757-9995-44a9-a8ce-90b0dfe1d7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Minimum 8 characters</value>
+      <webElementGuid>96e7d955-0f72-453f-895e-8936c3f9b776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manage-password&quot;)/div[@class=&quot;row wrapper-login&quot;]/div[@class=&quot;col-12 mb-5&quot;]/form[1]/div[@class=&quot;group mb-3&quot;]/div[@class=&quot;card bg-message&quot;]/div[@class=&quot;card-body bg-card card-password&quot;]/div[@class=&quot;text-dark-grey&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;mt-1&quot;]</value>
+      <webElementGuid>0499fe83-d625-4436-9c6a-3cecbccb4d39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manage-password']/div/div[2]/form/div[2]/div/div/div/ul/li[4]</value>
+      <webElementGuid>36fc7382-94ea-48b8-87f1-f41d12b33ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one special character'])[1]/following::li[1]</value>
+      <webElementGuid>d723d2b7-e79b-4d33-9f23-5fa818fe5bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='and'])[1]/following::li[2]</value>
+      <webElementGuid>278d9252-7d4e-4f44-84d9-54f5ee7b7b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm New Password'])[1]/preceding::li[1]</value>
+      <webElementGuid>2ab4be79-85e9-46f1-8811-92e38f2f38ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]</value>
+      <webElementGuid>2d467bfa-dd12-45ad-9335-8bec5deb2fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Minimum 8 characters' or . = ' Minimum 8 characters')]</value>
+      <webElementGuid>00eea276-0cca-4dee-92b2-dafef137e41c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

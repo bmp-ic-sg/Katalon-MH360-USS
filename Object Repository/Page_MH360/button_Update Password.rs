@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update Password</name>
+   <tag></tag>
+   <elementGuidId>b3ad8ce7-2f65-4f92-9595-2df109433f32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>82d7b130-84d3-43d9-b302-74d2d2e829c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1b66a510-70bb-4f56-bada-9df224d629d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mb-3 d-flex align-items-center</value>
+      <webElementGuid>53bc97cb-3255-445b-9696-ec082f73380b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Update Password </value>
+      <webElementGuid>dbab7d24-3960-4d24-be0f-4a9c25a6449f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;landingPage&quot;)/div[@class=&quot;row d-flex justify-content-center&quot;]/div[@class=&quot;col-md-7 col-lg-5&quot;]/a[@class=&quot;text-decoration-none&quot;]/div[@class=&quot;d-grid&quot;]/button[@class=&quot;btn btn-primary mb-3 d-flex align-items-center&quot;]</value>
+      <webElementGuid>2294bfff-c061-4385-bb2e-0a01a7ff4621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>f92e9cbd-3c53-4ae0-a664-eb1794fb4994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='landingPage']/div/div/a[2]/div/button</value>
+      <webElementGuid>3ed3c832-fdac-4248-8b94-8af44f39c020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update User Information'])[1]/following::button[1]</value>
+      <webElementGuid>2ed0a2c9-6100-4af4-980e-7e8fc5995ccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::button[1]</value>
+      <webElementGuid>4e2a95e5-3c17-48e1-860e-bb0a71fbeea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/button</value>
+      <webElementGuid>c92bfca7-56ed-4f34-bf88-3282bcac7ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Update Password ' or . = ' Update Password ')]</value>
+      <webElementGuid>067cc642-6922-4498-84fe-7add7b246cc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

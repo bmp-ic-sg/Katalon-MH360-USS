@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Incorrect SMS OTP, please try again</name>
+   <tag></tag>
+   <elementGuidId>f93da80d-cbec-4f86-8452-c8e5fae5e34e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='MH360SmsloginForm:login-top-error-messages-text']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.errormsg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8db18d27-69d4-4fdc-9fe3-2080197c174f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>errormsg</value>
+      <webElementGuid>34995e36-004a-4ccc-8e42-4898409673a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	Incorrect SMS OTP, please try again. </value>
+      <webElementGuid>37f522e1-eb03-44f7-87bb-4a05b546d4fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MH360SmsloginForm:login-top-error-messages-text&quot;)/li[@class=&quot;errormsg&quot;]</value>
+      <webElementGuid>7a59f576-1c3f-4285-9147-8363bc5308ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='MH360SmsloginForm:login-top-error-messages-text']/li</value>
+      <webElementGuid>160a45db-1b66-4540-a5ad-e00e83a45c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your OTP'])[1]/following::li[1]</value>
+      <webElementGuid>6f783818-f298-4313-ba58-889e2c23c5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A one-time PIN has been sent via SMS to your mobile number'])[1]/preceding::li[1]</value>
+      <webElementGuid>c1a24ad6-62b6-4ec3-b7e4-1def7269a38e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend the OTP to my mobile phone in 20'])[1]/preceding::li[1]</value>
+      <webElementGuid>6e13b5d5-d947-4e1d-ad31-db2d2f60509f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Incorrect SMS OTP, please try again.']/parent::*</value>
+      <webElementGuid>4dbf35af-47f7-4705-91b2-f0ea95047d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>882bae45-48c0-4fc6-bc0a-1718c98f719b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '	Incorrect SMS OTP, please try again. ' or . = '	Incorrect SMS OTP, please try again. ')]</value>
+      <webElementGuid>fbe012e1-31af-44d9-b732-abbadb54d8ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Update Account Details_circle text-center</name>
+   <tag></tag>
+   <elementGuidId>cac2c095-e725-4bd0-809d-a1eb49d39276</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cover-spin']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.circle.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>147a19c2-4adf-4a55-a4aa-483394a3a2fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>circle text-center</value>
+      <webElementGuid>a854f0a0-8e7d-4d78-97e0-b2711134c508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cover-spin&quot;)/div[@class=&quot;circle text-center&quot;]</value>
+      <webElementGuid>877247a5-7466-4890-b754-3c31e097c51d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cover-spin']/div</value>
+      <webElementGuid>267af1e1-8881-4410-bb0f-7d588814ba6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Account Details'])[1]/preceding::div[1]</value>
+      <webElementGuid>4a0c3c92-8e62-4e84-9efb-8b77d3bf89c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Information'])[1]/preceding::div[2]</value>
+      <webElementGuid>0976d718-bad3-4ef5-9acf-855ca9e71ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>a8ffb9fc-6c72-4216-a98b-70d10a652682</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>change-password</name>
+   <tag></tag>
+   <elementGuidId>2a44f689-90fc-40f5-b3fb-657f34d41ea4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='change-password']/div/div[2]/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-3.position-relative</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3bd9da1a-f14a-43e1-b1c9-34162dd80655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-3 position-relative</value>
+      <webElementGuid>06dbf9a7-05aa-4088-ad72-247f7435937c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Set your new password  </value>
+      <webElementGuid>bedf6d58-1eb6-4d09-aef8-f8fc56f12fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;change-password&quot;)/div[@class=&quot;row wrapper-login layout&quot;]/div[@class=&quot;col-12 mb-5&quot;]/form[1]/div[@class=&quot;mb-3 position-relative&quot;]</value>
+      <webElementGuid>a40e0fb8-cc8a-4918-8959-79cb1f128cba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='change-password']/div/div[2]/form/div</value>
+      <webElementGuid>92218d16-c0ce-4ba5-a305-61c4515b6679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[2]/following::div[2]</value>
+      <webElementGuid>53f1cb9a-fef7-4e0e-9537-424568cdf1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='At least one number'])[1]/preceding::div[1]</value>
+      <webElementGuid>33d4f40f-0894-4b4d-9c66-cc1290b3a701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>d3994e4c-9148-44a4-bccc-a54f2d843a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Set your new password  ' or . = 'Set your new password  ')]</value>
+      <webElementGuid>f00a4197-f86b-43d0-87fd-9303c0bb44d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

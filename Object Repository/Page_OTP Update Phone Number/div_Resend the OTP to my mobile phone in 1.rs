@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Resend the OTP to my mobile phone in 1</name>
+   <tag></tag>
+   <elementGuidId>6ac9b7e3-d085-4fad-acf3-1c96b2153d94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='countdownID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#countdownID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5c60244-9d4b-4f80-944c-8f0d4d6e769f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>countdownID</value>
+      <webElementGuid>060b8807-cfbb-4d33-9af2-fe5fa62cff32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-13px text-secondary-dark-grey text-center mt-3</value>
+      <webElementGuid>28784538-c7fd-4fda-81aa-4b9222865f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Resend the OTP to my mobile phone in: 1.
+                        </value>
+      <webElementGuid>2003fb12-bafc-4b10-8315-b7c6dc330a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;countdownID&quot;)</value>
+      <webElementGuid>9d2dfb6d-d905-4972-843e-a2d6d4ad41f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='countdownID']</value>
+      <webElementGuid>057c1a5c-619e-4afa-966e-5b29f389f964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-otp-phone']/div/div[2]/div</value>
+      <webElementGuid>75185cc9-3f04-406c-8ba2-938264a247b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A one-time PIN has been sent via SMS to your mobile number'])[1]/following::div[5]</value>
+      <webElementGuid>b569d926-49d8-4ac2-998a-509e837e4a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your OTP'])[1]/following::div[7]</value>
+      <webElementGuid>20d56a16-ab3c-4d67-965e-5ae13064e6ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::div[1]</value>
+      <webElementGuid>e860061b-bed9-4221-81bd-37592be01956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Resend the OTP to my mobile phone in: 1.']/parent::*</value>
+      <webElementGuid>f611d5bf-67df-4ac7-a609-853e1349fdb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div</value>
+      <webElementGuid>b43a53a0-a72d-4888-b967-a58b17c01c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'countdownID' and (text() = '
+                            Resend the OTP to my mobile phone in: 1.
+                        ' or . = '
+                            Resend the OTP to my mobile phone in: 1.
+                        ')]</value>
+      <webElementGuid>2ac08822-86f4-4be2-bfa7-bba36ccfe368</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

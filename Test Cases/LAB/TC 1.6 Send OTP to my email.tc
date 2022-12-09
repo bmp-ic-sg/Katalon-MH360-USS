@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send OTP to email is allowed after user enable the email otp</description>
+   <name>TC 1.6 Send OTP to my email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>742448bf-60db-4b26-8d96-e8ca76395a7b</testCaseGuid>
+</TestCaseEntity>

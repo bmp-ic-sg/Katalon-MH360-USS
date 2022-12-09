@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the OTP entered by the user is incorrect.</description>
+   <name>TCF 1.2 Wrong OTP Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bddf44bd-e3d0-4eb7-a8f6-f16b7273329b</testCaseGuid>
+</TestCaseEntity>

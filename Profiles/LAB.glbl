@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>lab</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Profile name</description>
+      <initValue>'LAB'</initValue>
+      <name>ProfileName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Lab MH360 PRP url</description>
+      <initValue>'https://gluu-ppl.azlabs.sg/mh360-patients'</initValue>
+      <name>BaseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Lab MH360 PRP url</description>
+      <initValue>'/password-reset'</initValue>
+      <name>ForgotPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'user.katalon@mail.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'P@ssw0rd'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123456'</initValue>
+      <name>StaticOtp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'82293212606'</initValue>
+      <name>PhoneNumber1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'82293212111'</initValue>
+      <name>PhoneNumber2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

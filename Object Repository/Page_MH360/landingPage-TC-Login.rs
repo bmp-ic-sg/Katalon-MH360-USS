@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>landingPage-TC-Login</name>
+   <tag></tag>
+   <elementGuidId>beae664e-6245-475c-815c-d1f14630f61c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='landingPage']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.mb-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f15ee2e0-3d52-4d3b-ad8c-8911c9055cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/logo.svg</value>
+      <webElementGuid>551d2b4f-6186-4d46-96f1-c558039787de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid mb-4</value>
+      <webElementGuid>fc2e1ad9-c188-4842-abbf-93cf852a45d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;landingPage&quot;)/img[@class=&quot;img-fluid mb-4&quot;]</value>
+      <webElementGuid>06b0fdf5-2953-41ca-ab83-6d141b51775e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='landingPage']/img</value>
+      <webElementGuid>4fdccf6c-a1c1-41f1-900b-f427a4e5839a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>f7bdde36-aa0f-46f3-bfde-35bcef666b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/logo.svg']</value>
+      <webElementGuid>9550aa2e-1c78-423e-9231-5fe801d96619</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
